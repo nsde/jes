@@ -1,0 +1,13 @@
+/* Adds an (uncolored) border and spacing */
+.border {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    
+    margin: 5px;
+    margin-left: 0;
+}
+
+/* Colors the border in green */
+.border.green {
+    border-color: lime;
+}
