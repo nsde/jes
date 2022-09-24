@@ -1,13 +1,13 @@
 # JES
 JustExplainStylesheets (jes, spoken like *jazz*, not *j.e.s.*) is a documentation generator for style sheets.
 
-## Support
+## Supported Formats
 ### Input (Style Sheets)
-- CSS
+- CSS (default)
 - SASS
 
 ### Output (Documentation)
-- Markdown
+- Markdown (default)
 - HTML
 
 ## Installation (soon!)

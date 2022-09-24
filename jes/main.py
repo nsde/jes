@@ -1,3 +1,5 @@
+"""This is the most important file, starting all the different functions."""
+
 import docs
 import reader
 import writer
